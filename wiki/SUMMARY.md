@@ -39,6 +39,7 @@
   * [Tarifs](ctq/tarifs.md)
   * [Taximètre](ctq/taximetre.md)
   * [Enfant à bord](ctq/enfant-a-bord.md)
+* [Modes de paiement](modes-de-paiement.md)
 
 ## Contrats
 

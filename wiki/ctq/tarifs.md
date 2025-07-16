@@ -34,7 +34,7 @@ S'applique dans les deux sens.
 {% endcolumn %}
 {% endcolumns %}
 
-<div align="left"><figure><img src="../.gitbook/assets/trajet-a.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
 
 La zone centre-ville de Québec est délimitée comme suit :
 
@@ -50,8 +50,6 @@ La zone centre-ville de Québec est délimitée comme suit :
 {% hint style="warning" %}
 Ne s'applique **que dans un sens**.
 {% endhint %}
-
-
 {% endcolumn %}
 
 {% column %}
@@ -60,7 +58,7 @@ Ne s'applique **que dans un sens**.
 {% endcolumn %}
 {% endcolumns %}
 
-<div align="left"><figure><img src="../.gitbook/assets/trajet-b.png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 La zone Sainte-Foy est délimitée comme suit :
 
@@ -69,13 +67,13 @@ La zone Sainte-Foy est délimitée comme suit :
 * **Au sud :** l’autoroute Charest
 * **Au nord :** le rang Sainte-Anne; la route de l’Aéroport; l’avenue Sainte-Geneviève
 
-## Autres tarifs dits "fixes"
+## Les « taux fixes »
 
 Il existe certains tarifs fixes (ou « taux fixes ») selon des situations particulières. Il peut s’agir d’ententes formulées entre 5191 et un particulier, d'un service spécial que nous offrons ou d’autres sortes de contrats.&#x20;
 
 Ces taux fixes sont, en règle générale, directement associés à certains [Numéros d'Ordre](../11.-numeros-dordre.md).
 
-* Vous trouverez tous les taux fixes relatifs à nosservice spéciaux directement dans leur chapitre dédié.
+* Vous trouverez tous les taux fixes relatifs à nos service spéciaux directement dans leur chapitre dédié.
 
 [^1]: Course débutant à partir de 5 h jusqu’à 22 h 59.
 
