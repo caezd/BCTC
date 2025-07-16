@@ -1,6 +1,6 @@
 # Table of contents
 
-* [✌️ Bienvenue chez Taxi Coop !](README.md)
+* [👋 Bienvenue chez Taxi Coop !](README.md)
 
 ## Centrale
 
@@ -18,10 +18,12 @@
 * [7. Fraxion](repartition/7.-fraxion/README.md)
   * [Menu principal](repartition/7.-fraxion/menu-principal.md)
   * [Réception des appels](repartition/7.-fraxion/reception-des-appels.md)
+  * [Répartition des appels](repartition/7.-fraxion/repartition-des-appels.md)
   * [Restrictions](repartition/7.-fraxion/restrictions.md)
 
 ***
 
+* [8. Cartes interactives](8.-cartes-interactives.md)
 * [Réservations](reservations.md)
 * [Chicoutimi](chicoutimi.md)
 * [Numéros d'Ordre](numeros-dordre.md)

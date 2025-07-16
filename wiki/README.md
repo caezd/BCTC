@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# ✌️ Bienvenue chez Taxi Coop !
+# 👋 Bienvenue chez Taxi Coop !
 
 Nous vous souhaitons d’abord la bienvenue parmi nous ! C’est avec fierté que nous vous accueillons au sein de l’équipe de Taxi Coop Québec 5191. Comme nous le disons si bien à l'interne, « BCTC » !
 

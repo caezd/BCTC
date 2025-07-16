@@ -45,7 +45,7 @@ Vous trouverez ci-dessous toute la liste des restrictions d'appel que nous utili
 * **Contrat CHUQ :** Lorsqu'un client indique qu'il paiera sa course avec un coupon du CHU de Québec. Pour plus d'informations, vous référer au chapitre du CHUQ.
 * **Rack à vélo :** À cocher lorsqu'un client a besoin de transporter plusieurs vélos et demande un "rack à vélo" installé à l'arrière du véhicule.
 * **Skis :** À cocher si le client doit transporter des skis. L'hiver, certaines de nos voitures installent sur leur toit un caisson pour les transporter plus facilement.
-* **Voiture protocol :**
+* **Voiture protocol :** À cocher si le client demander une voiture "propre" ou "protocolaire". Une explication du service est donnée plus en détails ici.
 * **Child lock :** Si un client fait la demande d'installer la sécurité pour enfant.
 * **Chien d'assistance :** Un protocole est dédié à cette restriction.
 * **Chat :** Si le client doit transporter un chat (habituellement en cage).
@@ -61,4 +61,4 @@ Vous trouverez ci-dessous toute la liste des restrictions d'appel que nous utili
 * **Livraison matière biologique :** À cocher lors d'une livraison de matière biologique (glacière, prélèvements, etc.). Une explication du service est donnée plus en détails ici.
 * **Tesla :** Le client veut une Tesla – tous les goûts sont dans la nature.
 * ~~**Transport adapté :** Cette restriction n'est plus utilisée.~~
-* **MINI-DÉMÉNAGEMENT :** Seule restriction qui a décidé de crier ; à cocher lorsque le client demande un véhicule pour transporter des boîtes ou un petit meuble. Une explication du service est donnée plus en détails ici.
+* **MINI-DÉMÉNAGEMENT :** ~~Seule restriction qui a décidé de crier qu'elle existe~~ ; à cocher lorsque le client demande un véhicule pour transporter des boîtes ou un petit meuble. Une explication du service est donnée plus en détails ici.

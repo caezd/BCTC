@@ -35,7 +35,7 @@ Il est demandé de se connecter. Pour se faire :
 <div align="left"><figure><img src="../../.gitbook/assets/repartition-2.png" alt="" width="348"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-Certaines options visibles sur la figure ci-contre ne seront peut-être pas disponibles, selon les droits et permission de votre compte utilisateur.
+Certaines options visibles sur l'exemple ci-dessus ne seront peut-être pas disponibles, selon les droits et permission de votre compte utilisateur.
 {% endhint %}
 
 Une fois connecté, vous accédez au menu principal de Fraxion, permettant de consulter tous les outils nécessaires à la répartition d'appels.
