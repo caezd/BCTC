@@ -73,7 +73,7 @@ La zone Sainte-Foy est délimitée comme suit :
 
 Il existe certains tarifs fixes (ou « taux fixes ») selon des situations particulières. Il peut s’agir d’ententes formulées entre 5191 et un particulier, d'un service spécial que nous offrons ou d’autres sortes de contrats.&#x20;
 
-Ces taux fixes sont, en règle générale, directement associés à certains [Numéros d'Ordre](../numeros-dordre.md).
+Ces taux fixes sont, en règle générale, directement associés à certains [Numéros d'Ordre](../11.-numeros-dordre.md).
 
 * Vous trouverez tous les taux fixes relatifs à nosservice spéciaux directement dans leur chapitre dédié.
 

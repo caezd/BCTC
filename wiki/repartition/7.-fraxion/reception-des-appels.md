@@ -131,7 +131,7 @@ Ce module permet de réserver des transports collectifs. <mark style="color:red;
 | -------------------------------------- | -------------------------------------- |
 | ![](../../.gitbook/assets/appel-5.png) | ![](../../.gitbook/assets/appel-6.png) |
 
-Les dossiers/comptes clients nous permettent de créer des "[numéros d'ordre](../../numeros-dordre.md)". Ceux-ci permettent d'envoyer des appels qui seront facturés plus tard, ce qui permet à certains de nos clients (entreprises, institutions, etc.) d’offrir un service de transport à leurs usagers ou employés sans que ces derniers aient à payer le taxi eux-mêmes.
+Les dossiers/comptes clients nous permettent de créer des "[numéros d'ordre](../../11.-numeros-dordre.md)". Ceux-ci permettent d'envoyer des appels qui seront facturés plus tard, ce qui permet à certains de nos clients (entreprises, institutions, etc.) d’offrir un service de transport à leurs usagers ou employés sans que ces derniers aient à payer le taxi eux-mêmes.
 
 * Chaque numéro d'ordre est identifié par un chiffre (ex : 30669). Dans la fenêtre de recherche, il est également possible de trouver un compte client en utilisant le nom d'un usager, son numéro de téléphone, etc.
 * Un numéro d'ordre peut expirer. Dans ce cas, l'entente initiale n'est plus valide et le client doit se référer à son supérieur ou la personne responsable qui lui a donné le numéro d'ordre.
@@ -144,8 +144,8 @@ Les dossiers/comptes clients nous permettent de créer des "[numéros d'ordre](.
 * **Options** : Comme pour un appel, permet de sélectionner le type de véhicule, le nombre de personne, le nombre de véhicules, la date et l'heure du transport.
 * **Montant de la course** : Certains scénarios peuvent avoir un "[taux fixe](../../ctq/tarifs.md)" selon le scénario. Il sera ajouté automatiquement à la sélection du scénario, autrement il n'y a pas de taux fixe.
 
-[^1]: Taxi Coop 5191 s'occupe également de la répartition de la compagnie Taxi Unis à [Chicoutimi](../../chicoutimi.md).
+[^1]: Taxi Coop 5191 s'occupe également de la répartition de la compagnie Taxi Unis à [Chicoutimi](../../10.-chicoutimi.md).
 
 [^2]: Il est possible de changer la date et l'heure d'un appel de deux façons : directement lors de sa saisie, ou en envoyant un appel avec la touche **F9**.
 
-[^3]: Si un répartiteur ne trouve pas l'adresse du client dans notre système, il doit transférer le client à un poste opérateur qui pourra faire des recherches supplémentaires et forcer une adresse au besoin. <mark style="background-color:red;">**Seuls les opérateurs ont le droit de forcer des adresses.**</mark>
+[^3]: Si un répartiteur ne trouve pas l'adresse du client dans notre système, il doit transférer le client à un poste opérateur qui pourra faire des recherches supplémentaires et forcer une adresse au besoin. <mark style="background-color:red;">**Seuls les opérateurs (et chefs d'équipe) ont le droit de forcer des adresses.**</mark>

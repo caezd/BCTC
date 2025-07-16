@@ -23,10 +23,10 @@
 
 ***
 
-* [8. Cartes interactives](8.-cartes-interactives.md)
-* [Réservations](reservations.md)
-* [Chicoutimi](chicoutimi.md)
-* [Numéros d'Ordre](numeros-dordre.md)
+* [8. Téléphone](8.-telephone.md)
+* [9. Réservations](9.-reservations.md)
+* [10. Chicoutimi](10.-chicoutimi.md)
+* [11. Numéros d'Ordre](11.-numeros-dordre.md)
 
 ## Taxi
 
@@ -42,8 +42,9 @@
 
 ## Contrats
 
-* [🤝 How we Work Together](contrats/how-we-work-together.md)
-* [📅 Meetings](contrats/meetings.md)
+* [CHUQ](contrats/chuq/README.md)
+  * [Tableau des taux fixes](contrats/chuq/tableau-des-taux-fixes.md)
+  * [Transport ambulancier](contrats/chuq/transport-ambulancier.md)
 
 ## Services
 
@@ -53,7 +54,22 @@
 ***
 
 * [Survoltage/Déverrouillage](survoltage-deverrouillage.md)
+* [Transport de vélo](transport-de-velo.md)
+* [Raccompagnement](raccompagnement.md)
+* [Livraison/Commission](livraison-commission.md)
+* [Voyage extérieur](voyage-exterieur.md)
+* [Déménagement](demenagement.md)
+* [Voiture protocolaire](voiture-protocolaire.md)
 
 ## Procédures
 
 * [Annonces générales](procedures/annonces-generales.md)
+
+***
+
+* [Chien d'assistance](chien-dassistance.md)
+* [Inspecteurs](inspecteurs.md)
+
+## Outils
+
+* [Cartes interactives](outils/cartes-interactives.md)

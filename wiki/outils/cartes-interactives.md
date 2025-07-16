@@ -1,4 +1,4 @@
-# 8. Cartes interactives
+# Cartes interactives
 
 ## Tarifs aéroportuaires
 
@@ -6,5 +6,5 @@ Une carte interactive est fournie par la Commission des transports afin de véri
 
 ## Survoltage/Déverrouillage
 
-{% include ".gitbook/includes/carte-survoltage-deverrouillage.md" %}
+{% include "../.gitbook/includes/carte-survoltage-deverrouillage.md" %}
 
