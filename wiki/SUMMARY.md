@@ -47,6 +47,15 @@
   * [Tableau des taux fixes](contrats/chuq/tableau-des-taux-fixes.md)
   * [Transport ambulancier](contrats/chuq/transport-ambulancier.md)
 
+***
+
+* [STAC](stac/README.md)
+  * [Chauffeurs](stac/chauffeurs.md)
+* [Flexibus](flexibus.md)
+* [CIUSSS](ciusss/README.md)
+  * [Lots](ciusss/lots.md)
+  * [Clients](ciusss/clients.md)
+
 ## Services
 
 * [CAA](services/caa/README.md)
