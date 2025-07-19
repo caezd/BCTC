@@ -1,18 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # Réception des appels
 
 <figure><img src="../../.gitbook/assets/appel-1.png" alt=""><figcaption></figcaption></figure>
@@ -28,6 +13,18 @@ L'entête de la réception des appels permet d'identifier en un clin d'œil cert
 * **Nom** : Nom de la compagnie concernée pour la [prise d'appel](#user-content-fn-1)[^1]
 * **Date / Heure** : Correspond à la date et à l'heure actuelle de l'ordinateur
 
+Lorsque la fenêtre **n'est pas en mode adresse confirmée,** il est possible de changer de compagnie en cliquant sur le nom de la compagnie/coopérative actuelle. Comme nous nous occupons également de la [répartition de Chicoutimi](../../10.-coop-taxi-unis.md), cela nous permet de répartir des adresses à Chicoutimi, pour Taxis Unis.
+
+{% columns %}
+{% column width="50%" %}
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Le bleu est la couleur par défaut pour Taxi Coop 5191.</p></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Le vert est la couleur par défaut pour Chicoutimi.</p></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
 ## <mark style="color:red;background-color:red;">Rouge, prise d'appel</mark>
 
 La fenêtre principale permet d'inscrire toutes les informations nécessaire à l'envoi d'un appel dans le système de répartition.
@@ -37,9 +34,9 @@ La fenêtre principale permet d'inscrire toutes les informations nécessaire à 
 * Il existe deux modes d'affichage assez subtils : **automatique** et **manuel**. Pour les différencier, il suffit de regarder la position du curseur.
   * En **automatique**, le numéro de téléphone sera en bleu, prêt à inscrire automatiquement le numéro du prochain client.
   * En **manuel**, le curseur est prêt à prendre le numéro civique de l'adresse.
-* Il est possible d'alterner entre les deux modes en appuyant sur la touche <kbd>**Echape**</kbd>**&#x20;(ESC)**.
+* Il est possible d'alterner entre les deux modes en appuyant sur la touche <kbd>**Esc**</kbd>**&#x20;(Échap.)**.
   * Faites attention, toutes les informations de la fenêtre seront effacées et réinitialisées.
-* Il est possible de valider chaque saisie d'information en appuyant sur **Entrer** ou **TAB** sans avoir peur d'envoyer un appel incomplet.
+* Il est possible de valider chaque saisie d'information en appuyant sur <kbd>**Entrer**</kbd> ou <kbd>**TAB**</kbd> sans avoir peur d'envoyer un appel incomplet.
 
 | Mode saisie automatique                                                   | Mode saisie manuelle                   |
 | ------------------------------------------------------------------------- | -------------------------------------- |
@@ -56,13 +53,13 @@ La fenêtre principale permet d'inscrire toutes les informations nécessaire à 
   * Il n'y a pas de trait d'union.
   * La case sert également de recherche et proposera des choix en fonction de ce qu'on écrit.
   * Il est également possible de récupérer l'adresse complète de certains commerces ou restaurants directement en écrivant leur nom dans la case (ex : `PROMENADES` permettra de récupérer `PROMENADES BEAUPORT, BEAUPORT` et en appuyant sur <kbd>**Entrer**</kbd>, toute l'adresse du centre commercial s'ajoutera à l'appel).
-  * Appuyer sur <kbd>**Entrer**</kbd> une fois le numéro civique et la rue ajouté placera l'appel en **mode adresse confirmée** et certaines informations complémentaires seront ajoutées (ex : zonage, ville, remarque, etc.).
-* **Ville** : Permet de sélectionner la ville si l'adresse existe dans plusieurs villes/secteurs (ex : il existe beaucoup trop de rues/avenues/routes `ÉGLISE DE L'`).
+  * Appuyer sur <kbd>**Entrer**</kbd> une fois le numéro civique et la rue ajouté placera l'appel en **mode adresse confirmée** et certaines informations complémentaires seront ajoutées (ex. : zonage, ville, remarque, etc.).
+* **Ville** : Permet de sélectionner la ville si l'adresse existe dans plusieurs villes/secteurs (ex. : il existe beaucoup trop de rues/avenues/routes `ÉGLISE DE L'`).
 * **# App.** : Indiquer le numéro d'appartement au besoin, notamment pour des livraisons.
   * Toutefois, nous n'encourageons pas nos clients à attendre chez eux, et un chauffeur n'est pas obligé de quitter son véhicule et d'aller sonner à une adresse.
 * **Commerce** : S'il y a des commerces liés à l'adresse (ou d'autres options de porte pour un hôpital ou un centre commercial).
-* **Nb véhicule** : `1` par défaut. Permet d'envoyer plusieurs véhicules au besoin (ex : choisir `2` dupliquera l'appel et ajoutera `[1/2]` et `[2/2]` dans la remarque).
-* **Zonage** : En choisissant une adresse, les zones dans lesquelles l'appel sera envoyé seront ajoutées automatiquement. Il est toutefois possible de les modifier ou d'en ajouter au besoin (ex : lorsqu'une adresse est [forcée manuellement](#user-content-fn-3)[^3])
+* **Nb véhicule** : `1` par défaut. Permet d'envoyer plusieurs véhicules au besoin (ex. : choisir `2` dupliquera l'appel et ajoutera `[1/2]` et `[2/2]` dans la remarque).
+* **Zonage** : En choisissant une adresse, les zones dans lesquelles l'appel sera envoyé seront ajoutées automatiquement. Il est toutefois possible de les modifier ou d'en ajouter au besoin (ex. : lorsqu'une adresse est [forcée manuellement](#user-content-fn-3)[^3])
 * **Destination** : Il est possible d'ajouter une adresse de destination.
 * **Blocage** : Si des véhicules sont bloqués pour l’adresse, ou si un client demande de ne pas avoir "tel numéro de taxi", il est possible d'inscrire le numéro de voiture dans cette case.
 * **Note permanente** : Note permanente s'affichant dans la tablette.
@@ -70,17 +67,18 @@ La fenêtre principale permet d'inscrire toutes les informations nécessaire à 
 * **Téléphone** : Numéro de téléphone du client.
   * En **mode saisie automatique**, il sera ajouté automatiquement, mais il peut être nécessaire de l'ajouter manuellement (ex : pour une réservation prise depuis un numéro masqué).
   * En **mode saisie manuelle**, si Fraxion n'est pas en **mode adresse confirmée**, inscrire un numéro de téléphone et appuyer sur <kbd>**Entrer**</kbd> permettra de récupérer les 10 dernières adresses du client voir encadré herbe
-* **Remarque** : Nous permet d'ajouter toutes les informations complémentaires d'un appel (ex : porte, nom du client, nombre de bagages, etc.).
+* **Remarque** : Nous permet d'ajouter toutes les informations complémentaires d'un appel (ex. : porte, nom du client, nombre de bagages, etc.).
   * Dans cette case, appuyer deux fois de suite sur <kbd>**Entrer**</kbd> enverra l'appel dans le système de répartition.
 
 ### Touches de fonction
 
 * **\[**<kbd>**F1**</kbd>**], forcer l'adresse** : Permet de forcer une adresse que Fraxion ne trouve pas. Seuls les opérateurs peuvent utiliser cette fonction et ne sert donc qu'en dernier recours.
-* **\[**<kbd>**F2**</kbd>**], recherche** : Permet de faire une recherche d'adresse avec ce qu'il y a d'écrit dans la case "Rue" (ex : `PROMEN` et <kbd>**F2**</kbd>ouvrira une fenêtre avec toutes les rues, remarques, commerces correspondant à `PROMEN`, dont les Promenades Beauport).
+* **\[**<kbd>**F2**</kbd>**], recherche** : Permet de faire une recherche d'adresse avec ce qu'il y a d'écrit dans la case "Rue" (ex. : `PROMEN` et <kbd>**F2**</kbd>ouvrira une fenêtre avec toutes les rues, remarques, commerces correspondant à `PROMEN`, dont les Promenades Beauport).
 * **\[**<kbd>**F5**</kbd>**], recherche appel** : Ouvre la fenêtre de recherche d'appel.
 * **\[**<kbd>**F6**</kbd>**], envoi** : Envoie l'appel dans le système de répartition. Par sécurité, il est impossible d'envoyer un appel sans qu'il soit en **mode adresse confirmée**.
 * **\[**<kbd>**F7**</kbd>**] et \[**<kbd>**F8**</kbd>**]** : Nous n'utilisons pas ces raccourcis.
 * **\[**<kbd>**F9**</kbd>**], réservation ou prioritaire** : Permet d'envoyer un appel prioritaire dans le système de répartition, ou de programmer une réservation.
+* **\[**<kbd>**F10**</kbd>**], switch répartition :** Permet de changer la fenêtre pour celle de la [répartition des appels](repartition-des-appels.md).
 * **\[**<kbd>**F11**</kbd>**], message** : Permet d'envoyer une annonce générale ou un message tablette à une voiture.
 
 ### Répartition ou véhicule
@@ -88,11 +86,11 @@ La fenêtre principale permet d'inscrire toutes les informations nécessaire à 
 * **Type de répartition** : Permet de choisir si l'appel sera réparti automatiquement par le système ou manuellement par le répartiteur une fois la touche <kbd>**F6**</kbd> appuyée. Par défaut, tous les appels sont (et doivent être) envoyés de façon automatique.
 * **Type de véhicule** : Permet de choisir quel type de véhicule envoyé. Auto (ou berline), Station (ou VUS), Van. Au besoin, il est également possible d'identifier le nombre de personnes.
 
-## <mark style="color:purple;background-color:purple;">Mauve, restrictions</mark>
+## <mark style="color:purple;background-color:purple;">Violet, restrictions</mark>
 
 Lorsqu'une restriction est cochée, l'appel sera transmis uniquement aux véhicules ou chauffeurs qui acceptent de desservir ce type d'appel. Elles agissent comme un filtre.
 
-Par exemple, si une cliente demande un taxi avec son chat, le téléphoniste doit cocher la case `Chat`. L'appel sera alors proposé seulement aux chauffeurs qui acceptent les chats.
+Par exemple, si une cliente demande un taxi avec son chat, le téléphoniste doit cocher la case `Chat`. L'appel sera alors proposé seulement aux chauffeurs qui acceptent de transporter des chats.
 
 Vous trouverez une description complète de [toutes les restrictions dans ce chapitre](restrictions.md).
 
@@ -127,15 +125,14 @@ Ce module permet de réserver des transports collectifs. <mark style="color:red;
 
 ### Clients
 
-| Recherche                              | Compte client                          |
-| -------------------------------------- | -------------------------------------- |
-| ![](../../.gitbook/assets/appel-5.png) | ![](../../.gitbook/assets/appel-6.png) |
+<div><figure><img src="../../.gitbook/assets/appel-5.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/appel-6.png" alt=""><figcaption></figcaption></figure></div>
 
 Les dossiers/comptes clients nous permettent de créer des "[numéros d'ordre](../../11.-numeros-dordre.md)". Ceux-ci permettent d'envoyer des appels qui seront facturés plus tard, ce qui permet à certains de nos clients (entreprises, institutions, etc.) d’offrir un service de transport à leurs usagers ou employés sans que ces derniers aient à payer le taxi eux-mêmes.
 
 * Chaque numéro d'ordre est identifié par un chiffre (ex : 30669). Dans la fenêtre de recherche, il est également possible de trouver un compte client en utilisant le nom d'un usager, son numéro de téléphone, etc.
 * Un numéro d'ordre peut expirer. Dans ce cas, l'entente initiale n'est plus valide et le client doit se référer à son supérieur ou la personne responsable qui lui a donné le numéro d'ordre.
-  * Si une personne responsable souhaite renouveler son entente et son numéro d'ordre, elle doit être référée à la Direction de la centrale.
+  * ![](<../../.gitbook/assets/image (10).png>)\
+    Si une personne responsable souhaite renouveler son entente et son numéro d'ordre, elle doit être référée à la Direction de la centrale.
 * **Personne pré-enregistrée à bord** : Permet d'identifier le client ou l'usager qui prendra le taxi. Certains numéros d'ordre possèdent une liste préétablie de personnes autorisées : il faut s'y référer et sélectionner la bonne personne. S'il n'y a personne dans la liste, il faut simplement inscrire le nom complet du client.
 * **Scénarios autorisés** : Chaque numéro d'ordre est unique et peut être paramétré selon des itinéraires précis. Il est également possible qu'aucun scénario ne soit programmé d'avance et que toutes les adresses de départ et de destination soient autorisées.
   * `Départ flexible -> Destination flexible` permet par la suite de sélectionner n'importe quelle adresse valide.
@@ -144,7 +141,9 @@ Les dossiers/comptes clients nous permettent de créer des "[numéros d'ordre](.
 * **Options** : Comme pour un appel, permet de sélectionner le type de véhicule, le nombre de personne, le nombre de véhicules, la date et l'heure du transport.
 * **Montant de la course** : Certains scénarios peuvent avoir un "[taux fixe](../../ctq/tarifs.md)" selon le scénario. Il sera ajouté automatiquement à la sélection du scénario, autrement il n'y a pas de taux fixe.
 
-[^1]: Taxi Coop 5191 s'occupe également de la répartition de la compagnie Taxi Unis à [Chicoutimi](../../10.-chicoutimi.md).
+<table><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top"><img src="../../.gitbook/assets/Capture d’écran 2025-07-17 135238.png" alt=""></td><td valign="top"><img src="../../.gitbook/assets/Capture d’écran 2025-07-17 135246.png" alt=""></td><td valign="top"><img src="../../.gitbook/assets/Capture d’écran 2025-07-17 135252.png" alt=""></td></tr><tr><td valign="top">Une vois toutes les informations nécessaires, la disquette devient bleu. Appuyer dessus sauvegarde l'appel et l'envoie en répartition (comme la touche <kbd><strong>F6</strong></kbd>)</td><td valign="top">Annule la création de l'appel et revient en arrière. Même chose que d'appuyer sur le X rouge en haut/droite de la fenêtre (ou appuyer sur la touche <kbd><strong>Esc</strong></kbd>).</td><td valign="top">Permet d'ouvrir la fenêtre d'Appel Prioritaire. Au besoin, vous pouvez vous référer à l'explication concernant les <a href="../../9.-reservations.md">réservations</a>.</td></tr></tbody></table>
+
+[^1]: Taxi Coop 5191 s'occupe également de la répartition de la compagnie Taxi Unis à [Chicoutimi](../../10.-coop-taxi-unis.md).
 
 [^2]: Il est possible de changer la date et l'heure d'un appel de deux façons : directement lors de sa saisie, ou en envoyant un appel avec la touche **F9**.
 

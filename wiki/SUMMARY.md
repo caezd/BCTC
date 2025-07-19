@@ -19,13 +19,15 @@
   * [Menu principal](repartition/7.-fraxion/menu-principal.md)
   * [Réception des appels](repartition/7.-fraxion/reception-des-appels.md)
   * [Répartition des appels](repartition/7.-fraxion/repartition-des-appels.md)
+  * [Tableau d'accrochage](repartition/7.-fraxion/tableau-daccrochage.md)
+  * [Push-To-Talk (PTT)](repartition/7.-fraxion/push-to-talk-ptt.md)
   * [Restrictions](repartition/7.-fraxion/restrictions.md)
 
 ***
 
 * [8. Téléphone](8.-telephone.md)
 * [9. Réservations](9.-reservations.md)
-* [10. Chicoutimi](10.-chicoutimi.md)
+* [10. Coop Taxi Unis](10.-coop-taxi-unis.md)
 * [11. Numéros d'Ordre](11.-numeros-dordre.md)
 
 ## Taxi
