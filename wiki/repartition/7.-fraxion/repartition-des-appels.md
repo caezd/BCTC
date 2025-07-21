@@ -87,24 +87,28 @@ Cette fenêtre peut être refermée en appuyant sur <kbd>**Esc**</kbd>.
 
 ## <mark style="color:blue;background-color:blue;">Bleu, remarque de l'appel</mark>
 
-Cette case n'est pas très fiable pour récupérer l'information complémentaire d'un appel. Elle devrait normalement afficher toute la remarque d'un appel sélectionné dans la fenêtre de répartition au-dessus... mais semble disparaitre et/ou revenir dès qu'un nouvel appel est ajouté/retiré de la répartition en attente. 🫠
+**Cette case n'est pas très fiable pour récupérer l'information complémentaire d'un appel.** Elle devrait normalement afficher toute la remarque d'un appel sélectionné dans la fenêtre de répartition au-dessus... mais semble disparaitre et/ou revenir dès qu'un nouvel appel est ajouté/retiré de la répartition en attente, ce qui arrive très fréquemment et empêche la lecture. 🫠 Nous préférons utiliser la touche <kbd>**F2**</kbd>, comme présenté ci-dessus.
 
 ## <mark style="color:orange;background-color:orange;">Orange, derniers appels répartis</mark>
 
 La liste des derniers appels repartis affiche les derniers appels distribués dans les tablettes.
 
 * **Voiture :** Le numéro de la voiture.
-* **S (Statut) :**&#x20;
-  * TA pour Transport Adapté.
-  * C pour Cancel, donc annulé.
-  * NL pour NoLoad, donc client non présent.
-  * <mark style="background-color:red;">DC est un mystère.</mark>
-  * M pour Message, ce n'est pas un appel mais un message envoyé par la répartition.
+* **S (Type d'appel) :**&#x20;
+  * **TA** pour Transport Adapté.
+  * **C** pour Cancel, donc annulé.
+  * **NL** pour NoLoad, donc client non présent.
+  * **DC** pour Dossier Client, donc [Numéro d'Ordre](../../11.-numeros-dordre.md)**.**
+  * **M** pour Message, ce n'est pas un appel mais un message envoyé par la répartition.
 * **Adresse :** L'adresse de l'appel (ou toute autre information pertinente selon le statut ci-dessus).
 
-## derniers appels répartis
+#### Couleurs des appels
 
-* noir, n'est pas reçu (probablement tablette fermée)
-* bleu :&#x20;
-* violet gras : refusé par le chauffeur
-* 30 secondes aux dernières nouvelles, à confirmer
+* **Noir :** Indique une potentielle latence de connexion _**OU**_ que la tablette est déconnectée et/ou que l'appel ou le message ne sont pas distribués correctement. <mark style="background-color:yellow;">Cela peut arriver lorsqu'un chauffeur se déconnecte sans avoir complété son appel.</mark> \
+  **L'appel ou le message est toujours marqué comme étant noir par le système** une fraction de seconde avant de passer au bleu.\
+  ![](../../.gitbook/assets/image.png)\
+  ![](<../../.gitbook/assets/image (1).png>)\
+  Dans l'exemple ci-dessous, on peut voir que la voiture 539 n'a pas reçu le message, indiqué comme "Non distribué".
+* <mark style="color:blue;">**Bleu :**</mark> L'appel est en attente d'être accepté ou d'être refusé. Aux dernières nouvelles, un appel doit être accepté dans les 30 secondes (à confirmer #todo), autrement il sera refusé.
+* <mark style="color:purple;">**Violet gras :**</mark> L'appel est en cours de refus, il sera retourné dans la répartition sous peu.
+* <mark style="color:red;">**Rouge :**</mark> L'appel est accepté dans la tablette.

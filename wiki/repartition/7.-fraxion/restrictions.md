@@ -5,7 +5,7 @@
 Chaque restriction agit comme un filtre sur l'appel qui sera envoyé dans le système. Ce filtre permet d'offrir l'appel uniquement aux voitures acceptant de faire ce type d'appel.
 
 {% hint style="warning" %}
-Il faut savoir qu'en répartissant un appel, nous ne sommes pas responsables des informations que les clients décident de nous fournir (ou absence de celles-ci). Par exemple, si un client est accompagné d'un chat en cage et qu'il ne l'annonce pas lors de la prise d'appel, le chauffeur est en droit de refuser cet appel une fois arrivé sur place.
+Il faut savoir qu'en répartissant un appel, nous ne sommes pas responsables des informations que les clients décident de nous fournir (ou l'absence de celles-ci). Par exemple, si un client est accompagné d'un chat en cage et qu'il ne l'annonce pas lors de la prise d'appel, tout chauffeur est en droit de refuser de prendre le client une fois arrivé sur place.
 {% endhint %}
 
 Vous trouverez ci-dessous toute la liste des restrictions d'appel que nous utilisons, en plus d'une explication pour chaque cas de figure :
@@ -18,7 +18,7 @@ Vous trouverez ci-dessous toute la liste des restrictions d'appel que nous utili
 * **No d'ordre :** Il faut cocher cette case pour tous les numéros d'ordre.
 * **Survoltage :** Lorsqu'un client demande un survoltage, il faut cocher cette case. [Une explication du service est donnée plus en détails ici.](../../survoltage-deverrouillage.md)
 * **CAA :** À cocher lorsqu'il s'agit d'un appel du CAA. [Une explication du service est donnée plus en détails ici.](../../services/caa/)
-* **JVA :** Le service JVA (J'y vais accompagné) est un projet pilote de 5191. Il est toujours en développement.
+* ~~**JVA :** Le service JVA (J'y vais accompagné) est un projet pilote de 5191. Il est toujours en développement.~~
 * **Besoin aide / Porte à porte :**
 * **Commissions :** Lorsqu'un client veut que le taxi aille acheter quelque chose pour lui. [Une explication du service est donnée plus en détails ici.](../../livraison-commission.md)
 * **Guide touriste**

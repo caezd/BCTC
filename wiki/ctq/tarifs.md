@@ -34,7 +34,7 @@ S'applique dans les deux sens.
 {% endcolumn %}
 {% endcolumns %}
 
-<div align="left"><figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 La zone centre-ville de Québec est délimitée comme suit :
 
@@ -58,7 +58,7 @@ Ne s'applique **que dans un sens**.
 {% endcolumn %}
 {% endcolumns %}
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 La zone Sainte-Foy est délimitée comme suit :
 
