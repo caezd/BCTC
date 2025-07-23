@@ -1,10 +1,14 @@
+---
+icon: bars
+---
+
 # Menu principal
 
 ## Menu principal
 
 ### Connexion
 
-<div align="left"><figure><img src="../../.gitbook/assets/icon-fraxion.png" alt=""><figcaption></figcaption></figure></div>
+![](../../.gitbook/assets/icon-fraxion.png)
 
 1. Ouvrir le logiciel de Fraxion en **double-cliquant** dessus.
 

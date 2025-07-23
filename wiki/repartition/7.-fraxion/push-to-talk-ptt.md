@@ -1,3 +1,7 @@
+---
+icon: microphone-lines
+---
+
 # Push-To-Talk (PTT)
 
 {% columns fullWidth="false" %}

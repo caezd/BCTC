@@ -1,6 +1,10 @@
 # Transport ambulancier
 
-Depuis le dimanche 6 juillet 2025 à minuit, environ 3300 ambulanciers paramédicaux membres de syndicats affiliés à la Fédération de la santé et des services sociaux sont en grève générale illimitée au Québec.
+{% hint style="warning" %}
+Jusqu'à preuve du contraire, cet accord est valide entre 5191 et le CHUQ, grève ou non.
+{% endhint %}
+
+> Le dimanche 6 juillet 2025 à minuit, environ 3300 ambulanciers paramédicaux membres de syndicats affiliés à la Fédération de la santé et des services sociaux sont en grève générale illimitée au Québec.
 
 La grève prend principalement la forme de moyens de pression administratifs, comme la non-exécution de certaines tâches non essentielles, en l'occurrence : ceux-ci refusent de transporter le personnel infirmier lorsqu'ils ne sont pas accompagnés d'un patient.
 

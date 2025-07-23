@@ -1,3 +1,7 @@
+---
+icon: phone-arrow-down-left
+---
+
 # Réception des appels
 
 <figure><img src="../../.gitbook/assets/appel-1.png" alt=""><figcaption></figcaption></figure>

@@ -1,3 +1,7 @@
+---
+icon: filter-list
+---
+
 # Restrictions
 
 <figure><img src="../../.gitbook/assets/fraxion-restrictions.png" alt=""><figcaption></figcaption></figure>

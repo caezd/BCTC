@@ -19,6 +19,8 @@
   * [Menu principal](repartition/7.-fraxion/menu-principal.md)
   * [Réception des appels](repartition/7.-fraxion/reception-des-appels.md)
   * [Répartition des appels](repartition/7.-fraxion/repartition-des-appels.md)
+  * [Recherche d'appels](repartition/7.-fraxion/recherche-dappels.md)
+  * [Informations d'appel](repartition/7.-fraxion/informations-dappel.md)
   * [Tableau d'accrochage](repartition/7.-fraxion/tableau-daccrochage.md)
   * [Push-To-Talk (PTT)](repartition/7.-fraxion/push-to-talk-ptt.md)
   * [Restrictions](repartition/7.-fraxion/restrictions.md)
@@ -52,11 +54,11 @@
 ***
 
 * [STAC](stac/README.md)
-  * [Chauffeurs](stac/chauffeurs.md)
-* [Flexibus](flexibus.md)
+  * [Chauffeurs \[UC.\]](stac/chauffeurs-uc..md)
+* [Flexibus \[UC.\]](flexibus-uc..md)
 * [CIUSSS](ciusss/README.md)
-  * [Lots](ciusss/lots.md)
-  * [Clients](ciusss/clients.md)
+  * [Lots \[UC.\]](ciusss/lots-uc..md)
+  * [Clients \[UC.\]](ciusss/clients-uc..md)
 
 ## Services
 
@@ -75,6 +77,10 @@
 
 ## Procédures
 
+* [Urgences](procedures/urgences/README.md)
+  * [Pannes](procedures/urgences/pannes.md)
+* [Clients](procedures/clients/README.md)
+  * [Objets perdus](procedures/clients/objets-perdus.md)
 * [Annonces générales](procedures/annonces-generales.md)
 
 ***

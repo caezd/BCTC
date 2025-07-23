@@ -1,3 +1,7 @@
+---
+icon: arrows-turn-to-dots
+---
+
 # Répartition des appels
 
 <figure><img src="../../.gitbook/assets/repartition-1 (1).png" alt=""><figcaption></figcaption></figure>
@@ -7,7 +11,8 @@
 L'entête de la répartition des appels permet d'identifier en un clin d'œil certaines informations qui, pour la plupart, n'auront pas de réellement impact sur la prise d'un appel.
 
 * **Usager** : Nom du téléphoniste connecté
-* **Poste** : Numéro du [poste téléphonique](../../5.-postes.md)
+* **Cie** : Si plusieurs compagnies sont réparties (c'est le cas avec [Chicoutimi](../../10.-coop-taxi-unis.md)), une liste déroulante avec le nom des compagnies/coopératives s'affiche. Il est possible de sélectionner lesquelles nous souhaitons afficher. Les appels en attente des deux compagnies seront maintenant visible.\
+  ![](../../.gitbook/assets/image.png)
 * **Nom** : Nom de la compagnie concernée pour la prise d'appel
 * **Date / Heure** : Correspond à la date et à l'heure actuelle de l'ordinateur
 
@@ -106,8 +111,8 @@ La liste des derniers appels repartis affiche les derniers appels distribués da
 
 * **Noir :** Indique une potentielle latence de connexion _**OU**_ que la tablette est déconnectée et/ou que l'appel ou le message ne sont pas distribués correctement. <mark style="background-color:yellow;">Cela peut arriver lorsqu'un chauffeur se déconnecte sans avoir complété son appel.</mark> \
   **L'appel ou le message est toujours marqué comme étant noir par le système** une fraction de seconde avant de passer au bleu.\
-  ![](../../.gitbook/assets/image.png)\
-  ![](<../../.gitbook/assets/image (1).png>)\
+  ![](<../../.gitbook/assets/image (2).png>)\
+  ![](<../../.gitbook/assets/image (1) (1).png>)\
   Dans l'exemple ci-dessous, on peut voir que la voiture 539 n'a pas reçu le message, indiqué comme "Non distribué".
 * <mark style="color:blue;">**Bleu :**</mark> L'appel est en attente d'être accepté ou d'être refusé. Aux dernières nouvelles, un appel doit être accepté dans les 30 secondes (à confirmer #todo), autrement il sera refusé.
 * <mark style="color:purple;">**Violet gras :**</mark> L'appel est en cours de refus, il sera retourné dans la répartition sous peu.
