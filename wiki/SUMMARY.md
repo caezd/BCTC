@@ -15,19 +15,20 @@
 
 ## Répartition
 
-* [7. Fraxion](repartition/7.-fraxion/README.md)
-  * [Menu principal](repartition/7.-fraxion/menu-principal.md)
-  * [Réception des appels](repartition/7.-fraxion/reception-des-appels.md)
-  * [Répartition des appels](repartition/7.-fraxion/repartition-des-appels.md)
-  * [Recherche d'appels](repartition/7.-fraxion/recherche-dappels.md)
-  * [Informations d'appel](repartition/7.-fraxion/informations-dappel.md)
-  * [Tableau d'accrochage](repartition/7.-fraxion/tableau-daccrochage.md)
-  * [Push-To-Talk (PTT)](repartition/7.-fraxion/push-to-talk-ptt.md)
-  * [Restrictions](repartition/7.-fraxion/restrictions.md)
+* [7. Téléphone](repartition/7.-telephone.md)
+* [8. Fraxion](repartition/8.-fraxion/README.md)
+  * [Menu principal](repartition/8.-fraxion/menu-principal.md)
+  * [Messages](repartition/8.-fraxion/messages.md)
+  * [Réception des appels](repartition/8.-fraxion/reception-des-appels.md)
+  * [Répartition des appels](repartition/8.-fraxion/repartition-des-appels.md)
+  * [Recherche d'appels](repartition/8.-fraxion/recherche-dappels.md)
+  * [Informations d'appel](repartition/8.-fraxion/informations-dappel.md)
+  * [Tableau d'accrochage](repartition/8.-fraxion/tableau-daccrochage.md)
+  * [Push-To-Talk (PTT)](repartition/8.-fraxion/push-to-talk-ptt.md)
+  * [Restrictions](repartition/8.-fraxion/restrictions.md)
 
 ***
 
-* [8. Téléphone](8.-telephone.md)
 * [9. Réservations](9.-reservations.md)
 * [10. Coop Taxi Unis](10.-coop-taxi-unis.md)
 * [11. Numéros d'Ordre](11.-numeros-dordre.md)

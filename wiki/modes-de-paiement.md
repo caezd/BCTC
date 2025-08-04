@@ -1,3 +1,7 @@
+---
+icon: credit-card
+---
+
 # Modes de paiement
 
 ## Machine Interac
@@ -7,7 +11,7 @@
   * <mark style="background-color:yellow;">Il n'est pas de la responsabilité du client</mark> de s'adapter au moyen de paiement du chauffeur.
   * En cas de panne subite et innatendue, il peut être proposer au client :&#x20;
     * De payer plus tard à la coop.
-    * De faire un détour (en arrêtant le taximètre) pour s'arrêter à un guichet.
+    * De faire un détour (en arrêtant le taximètre) pour s'arrêter à un guichet le plus proche si ça ne dérange pas le client.
 * Les machines Interac ne nous appartiennent pas. Elles appartiennent aux membres et chauffeurs.
   * Celle-ci peut-être celle du membre, que ce dernier prête à son chauffeur.
 * Il n'y a pas de compagnie imposée. Chaque chauffeur est libre de prendre une entente avec la compagnie de son choix.

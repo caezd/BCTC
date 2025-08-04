@@ -1,3 +1,7 @@
+---
+icon: baby
+---
+
 # Enfant à bord
 
 ## Les taxis sont-ils équipés de sièges auto pour enfants ?

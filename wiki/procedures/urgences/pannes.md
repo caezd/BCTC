@@ -23,7 +23,7 @@ Si l'application reste indisponible sur votre poste (et/ou celui de vos collègu
 
 {% columns %}
 {% column width="8.333333333333332%" %}
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}

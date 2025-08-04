@@ -1,4 +1,8 @@
-# 7. Fraxion
+---
+icon: uncharted
+---
+
+# 8. Fraxion
 
 ![](../../.gitbook/assets/icon-fraxion.png) Logiciel Fraxion S.I.V.
 

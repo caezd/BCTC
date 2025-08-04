@@ -1,3 +1,7 @@
+---
+icon: map-location
+---
+
 # Zones
 
 Le territoire de la Communauté métropolitaine de Québec que nous desservons est segmenté en différentes « Zones ». Chaque zone possède un numéro qui couvre une superficie précise en prenant en compte la circulation, les sens uniques, les axes ainsi que les artères principaux de la ville. Nous utilisons des zones plutôt que des quartiers pour faciliter la répartition des appels.

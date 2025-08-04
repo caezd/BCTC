@@ -1,3 +1,7 @@
+---
+icon: truck-medical
+---
+
 # Transport ambulancier
 
 {% hint style="warning" %}

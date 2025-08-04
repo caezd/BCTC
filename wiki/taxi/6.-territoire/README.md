@@ -1,3 +1,7 @@
+---
+icon: map
+---
+
 # 6. Territoire
 
 Depuis 2019, Taxi Coop 5191 couvre entièrement le territoire de la Communauté métropolitaine de Québec.

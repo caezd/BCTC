@@ -1,3 +1,7 @@
+---
+icon: tachograph-digital
+---
+
 # Taximètre
 
 ## Type

@@ -30,8 +30,8 @@ Certaines options visibles sur l'exemple ci-dessus ne seront peut-être pas disp
 Une fois connecté, vous accédez au menu principal de Fraxion, permettant de consulter tous les outils nécessaires à la répartition d'appels.
 
 1. Ouvre uniquement la fenêtre de Répartition
-2. Ouvre une boîte de Messages qui peuvent être envoyés aux et entre les employés.
-3. Ouvre la fenêtre permettant d'effectuer des recherches d'appels précises.
+2. Ouvre une [boîte de Messages](messages.md) qui peuvent être envoyés aux et entre les employés.
+3. Ouvre la fenêtre permettant d'effectuer des [recherches d'appels](recherche-dappels.md) précises.
 4. Ouvre le dossier des chauffeurs, des membres et les informations des véhicules, permettant de faire des modifications et de mettre à jour certaines informations.
 5. Permet d'ouvrir **toutes les fenêtres** utilisées pour la Répartition d'un seul coup : réception des appels, répartition des appels et tableau d'accrochage
 

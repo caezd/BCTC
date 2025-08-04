@@ -1,3 +1,7 @@
+---
+icon: table-list
+---
+
 # Tableau des taux fixes
 
 <figure><img src="../../.gitbook/assets/chu_3000x1900.png" alt=""><figcaption></figcaption></figure>
