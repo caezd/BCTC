@@ -26,10 +26,9 @@ Cette base de connaissances a été conçue pour vous accompagner dans votre rô
 
 <summary>Proposer des modifications</summary>
 
-Si vous repérez des erreurs, des données sensibles ou des informations manquantes, merci de les noter et de les transmettre à votre formateur.
+Si vous repérez des erreurs, des données sensibles ou des informations manquantes, merci de les noter et de nous les transmettre !
 
-Vos commentaires sont essentiels pour améliorer continuellement cette base de connaissances.\
-Une publication dédiée est disponible sur notre canal “Communication” dans Microsoft Teams. Vous pouvez y poser vos questions, échanger avec les formateurs et rédacteurs, ou encore suggérer des ajouts pertinents.
+<mark style="background-color:yellow;">Vos commentaires sont essentiels pour améliorer cette base de connaissances.</mark> Une publication dédiée est disponible sur notre canal `“Communication” dans Microsoft Teams`. Vous pouvez y poser vos questions, échanger avec les formateurs et rédacteurs, ou encore suggérer des ajouts pertinents.
 
 N’hésitez pas à y contribuer : cette base de connaissances est un outil évolutif qui vous accompagnera tout au long de votre parcours au sein de Taxi Coop Québec 5191.
 
@@ -39,7 +38,7 @@ N’hésitez pas à y contribuer : cette base de connaissances est un outil évo
 
 <summary>Utiliser la fonction de « Recherche »</summary>
 
-Une fonction de recherche vous permet de trouver rapidement l’information dont vous avez besoin. Que vous cherchiez une procédure, une définition ou une règle interne, il vous suffit d’entrer un mot-clé ou une expression dans la barre de recherche située en haut à gauche de l’écran (ou via le raccourci clavier `ctrl + k` ).
+Une fonction de recherche vous permet de trouver rapidement l’information dont vous avez besoin. Que vous cherchiez une procédure, une définition ou une règle interne, il vous suffit d’entrer un mot-clé ou une expression dans la barre de recherche située en haut à gauche de l’écran (ou via le raccourci clavier <kbd>**ctrl + k**</kbd> ).
 
 </details>
 
