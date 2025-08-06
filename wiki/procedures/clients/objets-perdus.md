@@ -1,3 +1,7 @@
+---
+icon: bin-recycle
+---
+
 # Objets perdus
 
 ## Perdu dans un taxi 5191&#x20;

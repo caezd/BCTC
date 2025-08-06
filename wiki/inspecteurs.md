@@ -1,2 +1,6 @@
+---
+icon: user-police
+---
+
 # Inspecteurs
 

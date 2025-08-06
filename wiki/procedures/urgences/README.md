@@ -1,2 +1,6 @@
+---
+icon: triangle-exclamation
+---
+
 # Urgences
 

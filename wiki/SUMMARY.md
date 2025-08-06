@@ -56,6 +56,7 @@
 
 * [STAC](stac/README.md)
   * [Chauffeurs \[UC.\]](stac/chauffeurs-uc..md)
+  * [Cédule](stac/cedule.md)
 * [Flexibus \[UC.\]](flexibus-uc..md)
 * [CIUSSS](ciusss/README.md)
   * [Lots \[UC.\]](ciusss/lots-uc..md)

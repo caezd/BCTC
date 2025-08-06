@@ -1,3 +1,7 @@
+---
+icon: earth-americas
+---
+
 # Cartes interactives
 
 ## Tarifs aéroportuaires

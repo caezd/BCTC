@@ -26,15 +26,15 @@ Au montant de départ lors de la prise en charge s’ajoute une redevance de **0
 ### Trajet A | De l’aérogare vers le centre-ville de Québec
 
 {% columns %}
-{% column width="50%" %}
+{% column width="66.66666666666666%" %}
 {% hint style="success" %}
 S'applique dans les deux sens.
 {% endhint %}
 {% endcolumn %}
 
 {% column %}
-[**TARIF JOUR** : 41,40 $ (42,45 $)\
-**TARIF NUIT** : 47,60 $ (48,65 $)](#user-content-fn-3)[^3]
+[**TARIF JOUR** : 41,40 $\
+**TARIF NUIT** : 47,60 $](#user-content-fn-3)[^3]
 {% endcolumn %}
 {% endcolumns %}
 
@@ -50,15 +50,15 @@ La zone centre-ville de Québec est délimitée comme suit :
 ### Trajet B | De l’aéroport vers zone Sainte-Foy
 
 {% columns %}
-{% column %}
+{% column width="66.66666666666666%" %}
 {% hint style="warning" %}
-Ne s'applique **que dans un sens**.
+Ne s'applique **que dans ce sens**.
 {% endhint %}
 {% endcolumn %}
 
 {% column %}
-**TARIF JOUR** : 18,15 $ (19,20 $)\
-**TARIF NUIT** : 20,85 $ (21,90 $)
+[**TARIF JOUR** : 18,15 $\
+**TARIF NUIT** : 20,85 $](#user-content-fn-3)[^3]
 {% endcolumn %}
 {% endcolumns %}
 
@@ -83,4 +83,4 @@ Ces taux fixes sont, en règle générale, directement associés à certains [Nu
 
 [^2]: Course débutant à partir de 23 h jusqu’à 4 h 59.
 
-[^3]: La redevance peut s’appliquer aux tarifs aéroportuaires, même si la plupart des chauffeurs préfèrent ne pas le faire.
+[^3]: Ce tarif inclut la redevance additionnelle.
