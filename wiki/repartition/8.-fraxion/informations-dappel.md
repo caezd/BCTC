@@ -40,23 +40,23 @@ icon: circle-info
 Le cheminement complet d'un appel peut être consulté grâce au boutton `Explication`.
 
 {% tabs %}
-{% tab title="1re action" %}
+{% tab title="Appel accepté" %}
 <div align="center"><figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure></div>
 
-Toutes les informations visibles permettent d'avoir un détail précis de l'ordre de répartition de l'appel.
+Toutes les informations visibles permettent d'avoir l'ordre détaillé de répartition de l'appel.
 
 Dans l'exemple ci-dessus, l'appel a été attribué au #413. Nous pouvons constater qu'il était premier dans la zone, inscrit depuis 14h39. Le suivant en liste était le #300, inscrit depuis 14h42, et ainsi de suite.
 
-Nous voyons le type de véhicule, leur distance par rapport à l'adresse demandé par le client.
+Nous voyons le type de véhicule, le zonage, la zone dans lequel le véhicule était ainsi que leur distance par rapport à l'adresse demandé par le client.
 {% endtab %}
 
-{% tab title="2e action" %}
+{% tab title="NoLoad" %}
 <figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 Le véhicule a fait NoLoad en arrivant à l'adresse.
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="Refus" %}
 <figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 Dans cet exemple, le système a repris l'appel. Le chauffeur a "refusé" l'appel. Le système a aussi appliqué une pénalité de type `Perte Position`.
