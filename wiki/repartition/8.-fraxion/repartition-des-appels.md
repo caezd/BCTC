@@ -11,7 +11,7 @@ icon: arrows-turn-to-dots
 L'entête de la répartition des appels permet d'identifier en un clin d'œil certaines informations qui, pour la plupart, n'auront pas de réellement impact sur la prise d'un appel.
 
 * **Usager** : Nom du téléphoniste connecté
-* **Cie** : Si plusieurs compagnies sont réparties (c'est le cas avec [Chicoutimi](../../10.-coop-taxi-unis.md)), une liste déroulante avec le nom des compagnies/coopératives s'affiche. Il est possible de sélectionner lesquelles nous souhaitons afficher. Les appels en attente des deux compagnies seront maintenant visible.\
+* **Cie** : Si plusieurs compagnies sont réparties (c'est le cas avec [Chicoutimi](../10.-coop-taxi-unis.md)), une liste déroulante avec le nom des compagnies/coopératives s'affiche. Il est possible de sélectionner lesquelles nous souhaitons afficher. Les appels en attente des deux compagnies seront maintenant visible.\
   ![](<../../.gitbook/assets/image (1).png>)
 * **Nom** : Nom de la compagnie concernée pour la prise d'appel
 * **Date / Heure** : Correspond à la date et à l'heure actuelle de l'ordinateur
@@ -103,7 +103,7 @@ La liste des derniers appels repartis affiche les derniers appels distribués da
   * **TA** pour Transport Adapté.
   * **C** pour Cancel, donc annulé.
   * **NL** pour NoLoad, donc client non présent.
-  * **DC** pour Dossier Client, donc [Numéro d'Ordre](../../11.-numeros-dordre.md)**.**
+  * **DC** pour Dossier Client, donc [Numéro d'Ordre](../11.-numeros-dordre.md)**.**
   * **M** pour Message, ce n'est pas un appel mais un message envoyé par la répartition.
 * **Adresse :** L'adresse de l'appel (ou toute autre information pertinente selon le statut ci-dessus).
 

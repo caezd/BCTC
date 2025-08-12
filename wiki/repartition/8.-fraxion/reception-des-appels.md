@@ -17,7 +17,7 @@ L'entête de la réception des appels permet d'identifier en un clin d'œil cert
 * **Nom** : Nom de la compagnie concernée pour la [prise d'appel](#user-content-fn-1)[^1]
 * **Date / Heure** : Correspond à la date et à l'heure actuelle de l'ordinateur
 
-Lorsque la fenêtre **n'est pas en mode adresse confirmée,** il est possible de changer de compagnie en cliquant sur le nom de la compagnie/coopérative actuelle. Comme nous nous occupons également de la [répartition de Chicoutimi](../../10.-coop-taxi-unis.md), cela nous permet de répartir des adresses à Chicoutimi, pour Taxis Unis.
+Lorsque la fenêtre **n'est pas en mode adresse confirmée,** il est possible de changer de compagnie en cliquant sur le nom de la compagnie/coopérative actuelle. Comme nous nous occupons également de la [répartition de Chicoutimi](../10.-coop-taxi-unis.md), cela nous permet de répartir des adresses à Chicoutimi, pour Taxis Unis.
 
 {% columns %}
 {% column width="50%" %}
@@ -131,7 +131,7 @@ Ce module permet de réserver des transports collectifs. <mark style="color:red;
 
 <div><figure><img src="../../.gitbook/assets/appel-5.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/appel-6.png" alt=""><figcaption></figcaption></figure></div>
 
-Les dossiers/comptes clients nous permettent de créer des "[numéros d'ordre](../../11.-numeros-dordre.md)". Ceux-ci permettent d'envoyer des appels qui seront facturés plus tard, ce qui permet à certains de nos clients (entreprises, institutions, etc.) d’offrir un service de transport à leurs usagers ou employés sans que ces derniers aient à payer le taxi eux-mêmes.
+Les dossiers/comptes clients nous permettent de créer des "[numéros d'ordre](../11.-numeros-dordre.md)". Ceux-ci permettent d'envoyer des appels qui seront facturés plus tard, ce qui permet à certains de nos clients (entreprises, institutions, etc.) d’offrir un service de transport à leurs usagers ou employés sans que ces derniers aient à payer le taxi eux-mêmes.
 
 * Chaque numéro d'ordre est identifié par un chiffre (ex : 30669). Dans la fenêtre de recherche, il est également possible de trouver un compte client en utilisant le nom d'un usager, son numéro de téléphone, etc.
 * Un numéro d'ordre peut expirer. Dans ce cas, l'entente initiale n'est plus valide et le client doit se référer à son supérieur ou la personne responsable qui lui a donné le numéro d'ordre.
@@ -143,11 +143,11 @@ Les dossiers/comptes clients nous permettent de créer des "[numéros d'ordre](.
 * **Départ/Destination** : Selon le scénario, l'adresse de départ et de destination seront déjà sélectionner. S'il s'agit d'un scénario flexible, il faudra ajouter les adresses en appuyant sur le  et en effectuant une recherche par numéro civique et nom de rue.
 * **Commentaires additionnels** : Permet d'ajouter des détails supplémentaires à l'appel. Ils seront ajoutés à l'appel comme s'ils avaient été inscrits dans la section "remarque" et pourront être lus par le chauffeur.
 * **Options** : Comme pour un appel, permet de sélectionner le type de véhicule, le nombre de personne, le nombre de véhicules, la date et l'heure du transport.
-* **Montant de la course** : Certains scénarios peuvent avoir un "[taux fixe](../../ctq/tarifs.md)" selon le scénario. Il sera ajouté automatiquement à la sélection du scénario, autrement il n'y a pas de taux fixe.
+* **Montant de la course** : Certains scénarios peuvent avoir un "[taux fixe](../../taxi/ctq/tarifs.md)" selon le scénario. Il sera ajouté automatiquement à la sélection du scénario, autrement il n'y a pas de taux fixe.
 
-<table><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top"><img src="../../.gitbook/assets/Capture d’écran 2025-07-17 135238.png" alt=""></td><td valign="top"><img src="../../.gitbook/assets/Capture d’écran 2025-07-17 135246.png" alt=""></td><td valign="top"><img src="../../.gitbook/assets/Capture d’écran 2025-07-17 135252.png" alt=""></td></tr><tr><td valign="top">Une vois toutes les informations nécessaires, la disquette devient bleu. Appuyer dessus sauvegarde l'appel et l'envoie en répartition (comme la touche <kbd><strong>F6</strong></kbd>)</td><td valign="top">Annule la création de l'appel et revient en arrière. Même chose que d'appuyer sur le X rouge en haut/droite de la fenêtre (ou appuyer sur la touche <kbd><strong>Esc</strong></kbd>).</td><td valign="top">Permet d'ouvrir la fenêtre d'Appel Prioritaire. Au besoin, vous pouvez vous référer à l'explication concernant les <a href="../../9.-reservations.md">réservations</a>.</td></tr></tbody></table>
+<table><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top"><img src="../../.gitbook/assets/Capture d’écran 2025-07-17 135238.png" alt=""></td><td valign="top"><img src="../../.gitbook/assets/Capture d’écran 2025-07-17 135246.png" alt=""></td><td valign="top"><img src="../../.gitbook/assets/Capture d’écran 2025-07-17 135252.png" alt=""></td></tr><tr><td valign="top">Une vois toutes les informations nécessaires, la disquette devient bleu. Appuyer dessus sauvegarde l'appel et l'envoie en répartition (comme la touche <kbd><strong>F6</strong></kbd>)</td><td valign="top">Annule la création de l'appel et revient en arrière. Même chose que d'appuyer sur le X rouge en haut/droite de la fenêtre (ou appuyer sur la touche <kbd><strong>Esc</strong></kbd>).</td><td valign="top">Permet d'ouvrir la fenêtre d'Appel Prioritaire. Au besoin, vous pouvez vous référer à l'explication concernant les <a href="../9.-reservations.md">réservations</a>.</td></tr></tbody></table>
 
-[^1]: Taxi Coop 5191 s'occupe également de la répartition de la compagnie Taxi Unis à [Chicoutimi](../../10.-coop-taxi-unis.md).
+[^1]: Taxi Coop 5191 s'occupe également de la répartition de la compagnie Taxi Unis à [Chicoutimi](../10.-coop-taxi-unis.md).
 
 [^2]: Il est possible de changer la date et l'heure d'un appel de deux façons : directement lors de sa saisie, ou en envoyant un appel avec la touche **F9**.
 

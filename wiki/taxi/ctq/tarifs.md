@@ -38,7 +38,7 @@ S'applique dans les deux sens.
 {% endcolumn %}
 {% endcolumns %}
 
-<div align="left"><figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 La zone centre-ville de Québec est délimitée comme suit :
 
@@ -62,7 +62,7 @@ Ne s'applique **que dans ce sens**.
 {% endcolumn %}
 {% endcolumns %}
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 La zone Sainte-Foy est délimitée comme suit :
 
@@ -75,7 +75,7 @@ La zone Sainte-Foy est délimitée comme suit :
 
 Il existe certains tarifs fixes (ou « taux fixes ») selon des situations particulières. Il peut s’agir d’ententes formulées entre 5191 et un particulier, d'un service spécial que nous offrons ou d’autres sortes de contrats.&#x20;
 
-Ces taux fixes sont, en règle générale, directement associés à certains [Numéros d'Ordre](../11.-numeros-dordre.md).
+Ces taux fixes sont, en règle générale, directement associés à certains [Numéros d'Ordre](../../repartition/11.-numeros-dordre.md).
 
 * Vous trouverez tous les taux fixes relatifs à nos service spéciaux directement dans leur chapitre dédié.
 

@@ -5,13 +5,10 @@
 ## Centrale
 
 * [1. Formation](centrale/1.-formation.md)
-
-***
-
-* [2. Coopérative](2.-cooperative.md)
-* [3. Règles internes](3.-regles-internes.md)
-* [4. Syndicat](4.-syndicat.md)
-* [5. Postes](5.-postes.md)
+* [2. Coopérative](centrale/2.-cooperative.md)
+* [3. Règles internes](centrale/3.-regles-internes.md)
+* [4. Syndicat](centrale/4.-syndicat.md)
+* [5. Postes](centrale/5.-postes.md)
 
 ## Répartition
 
@@ -26,56 +23,48 @@
   * [Tableau d'accrochage](repartition/8.-fraxion/tableau-daccrochage.md)
   * [Push-To-Talk (PTT)](repartition/8.-fraxion/push-to-talk-ptt.md)
   * [Restrictions](repartition/8.-fraxion/restrictions.md)
+* [9. Réservations](repartition/9.-reservations.md)
+* [10. Coop Taxi Unis](repartition/10.-coop-taxi-unis.md)
+* [11. Numéros d'Ordre](repartition/11.-numeros-dordre.md)
 
-***
+## Opération
 
-* [9. Réservations](9.-reservations.md)
-* [10. Coop Taxi Unis](10.-coop-taxi-unis.md)
-* [11. Numéros d'Ordre](11.-numeros-dordre.md)
+* [12. Rôle et responsabilités](operation/12.-role-et-responsabilites.md)
 
 ## Taxi
 
 * [6. Territoire](taxi/6.-territoire/README.md)
   * [Zones](taxi/6.-territoire/zones.md)
-
-***
-
-* [CTQ](ctq/README.md)
-  * [Tarifs](ctq/tarifs.md)
-  * [Taximètre](ctq/taximetre.md)
-  * [Enfant à bord](ctq/enfant-a-bord.md)
-* [Modes de paiement](modes-de-paiement.md)
+* [Modes de paiement](taxi/modes-de-paiement.md)
+* [CTQ](taxi/ctq/README.md)
+  * [Tarifs](taxi/ctq/tarifs.md)
+  * [Taximètre](taxi/ctq/taximetre.md)
+  * [Enfant à bord](taxi/ctq/enfant-a-bord.md)
 
 ## Contrats
 
 * [CHUQ](contrats/chuq/README.md)
   * [Tableau des taux fixes](contrats/chuq/tableau-des-taux-fixes.md)
   * [Transport ambulancier](contrats/chuq/transport-ambulancier.md)
-
-***
-
-* [STAC](stac/README.md)
-  * [Chauffeurs \[UC.\]](stac/chauffeurs-uc..md)
-  * [Cédule](stac/cedule.md)
-* [Flexibus \[UC.\]](flexibus-uc..md)
-* [CIUSSS](ciusss/README.md)
-  * [Lots \[UC.\]](ciusss/lots-uc..md)
-  * [Clients \[UC.\]](ciusss/clients-uc..md)
+* [STAC](contrats/stac/README.md)
+  * [Chauffeurs \[UC.\]](contrats/stac/chauffeurs-uc..md)
+  * [Cédule](contrats/stac/cedule.md)
+* [Flexibus \[UC.\]](contrats/flexibus-uc..md)
+* [CIUSSS](contrats/ciusss/README.md)
+  * [Lots \[UC.\]](contrats/ciusss/lots-uc..md)
+  * [Clients \[UC.\]](contrats/ciusss/clients-uc..md)
 
 ## Services
 
 * [CAA](services/caa/README.md)
   * [CAA - Assistance Vélo](services/caa/caa-assistance-velo.md)
-
-***
-
-* [Survoltage/Déverrouillage](survoltage-deverrouillage.md)
-* [Transport de vélo](transport-de-velo.md)
-* [Raccompagnement](raccompagnement.md)
-* [Livraison/Commission](livraison-commission.md)
-* [Voyage extérieur](voyage-exterieur.md)
-* [Déménagement](demenagement.md)
-* [Voiture protocolaire](voiture-protocolaire.md)
+* [Survoltage/Déverrouillage](services/survoltage-deverrouillage.md)
+* [Transport de vélo](services/transport-de-velo.md)
+* [Raccompagnement](services/raccompagnement.md)
+* [Livraison/Commission](services/livraison-commission.md)
+* [Voyage extérieur](services/voyage-exterieur.md)
+* [Déménagement](services/demenagement.md)
+* [Voiture protocolaire](services/voiture-protocolaire.md)
 
 ## Procédures
 
@@ -84,11 +73,8 @@
 * [Clients](procedures/clients/README.md)
   * [Objets perdus](procedures/clients/objets-perdus.md)
 * [Annonces générales](procedures/annonces-generales.md)
-
-***
-
-* [Chien d'assistance](chien-dassistance.md)
-* [Inspecteurs](inspecteurs.md)
+* [Chien d'assistance](procedures/chien-dassistance.md)
+* [Inspecteurs](procedures/inspecteurs.md)
 
 ## Outils
 

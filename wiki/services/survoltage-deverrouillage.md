@@ -1,6 +1,6 @@
 # Survoltage/Déverrouillage
 
-{% include ".gitbook/includes/carte-survoltage-deverrouillage.md" %}
+{% include "../.gitbook/includes/carte-survoltage-deverrouillage.md" %}
 
 ## Tarification
 

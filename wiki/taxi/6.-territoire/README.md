@@ -7,7 +7,7 @@ icon: map
 Depuis 2019, Taxi Coop 5191 couvre entièrement le territoire de la Communauté métropolitaine de Québec.
 
 {% hint style="warning" %}
-Tous les appels en dehors de ce territoire doivent être traités comme des [Voyages Extérieurs](../../voyage-exterieur.md).
+Tous les appels en dehors de ce territoire doivent être traités comme des [Voyages Extérieurs](../../services/voyage-exterieur.md).
 {% endhint %}
 
 <div align="center" data-full-width="true"><figure><img src="../../.gitbook/assets/Capture d’écran 2025-07-16 152523.png" alt=""><figcaption></figcaption></figure></div>

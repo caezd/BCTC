@@ -6,7 +6,7 @@ icon: circle-info
 
 <div align="center"><figure><img src="../../.gitbook/assets/Information_appel.jpg" alt=""><figcaption></figcaption></figure></div>
 
-1. **Date/heure Demande :** La date et l'heure de la demande (lorsque le téléphoniste décroche le téléphone) OU la date et l'heure planifiée s'il s'agit d'une [réservation](../../9.-reservations.md).
+1. **Date/heure Demande :** La date et l'heure de la demande (lorsque le téléphoniste décroche le téléphone) OU la date et l'heure planifiée s'il s'agit d'une [réservation](../9.-reservations.md).
 2. **Date/heure reçu :** La date et l'heure de la création de l'appel (avec la touche <kbd>**F6**</kbd>).
 3. **Date/heure donnée :** La date et l'heure à laquelle l'appel a été accepté dans une tablette.
 4. **Date/heure chez client :** La date et l'heure à laquelle le taxi indique (à l'aide d'un bouton dans sa tablette) qu'il est arrivé devant l'adresse du client.
