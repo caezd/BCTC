@@ -1,7 +1,3 @@
----
-icon: message-exclamation
----
-
 # Annonces générales
 
 <figure><img src="../.gitbook/assets/f11-annonce.png" alt=""><figcaption></figcaption></figure>

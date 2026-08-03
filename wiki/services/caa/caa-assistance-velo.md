@@ -1,6 +1,28 @@
 ---
 cover: ../../.gitbook/assets/CAAsvg.svg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+    mask: none
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # CAA - Assistance Vélo
@@ -21,6 +43,6 @@ Taxi Coop 5191 offre désormais un nouveau service de dépannage pour le CAA « 
    * Dans « commentaire additionnel », retirer la note concernant l’attente et ajouter le plus d’informations pertinentes pour identifier et retrouver le client selon sa position.
    * Dans « Départ » et « Destination » on inscrit les informations de l’appel.
    * Dans « Montant de la course », on inscrit le PrixCalculé.
-   * **Cocher les restrictions « No d’ordre » et « VELO-CAA ».** <mark style="color:red;">Même si le répartiteur du CAA vous parle de Van,</mark> <mark style="color:red;"></mark><mark style="color:red;">**il ne faut pas cocher l'option Van**</mark><mark style="color:red;">.</mark>
+   * **Cocher les restrictions « No d’ordre » et « VELO-CAA ».** <mark style="color:red;">Même si le répartiteur du CAA vous parle de Van,</mark> <mark style="color:red;">**il ne faut pas cocher l'option Van**</mark><mark style="color:red;">.</mark>
 
 Cette procédure sera révisée sous peu, nous attendons une mise à jour de Fraxion pour faciliter ce genre de manipulations.
