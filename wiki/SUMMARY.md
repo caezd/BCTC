@@ -4,13 +4,11 @@
 
 ## Centrale
 
-***
-
-* [1. Formation](1.-formation.md)
-* [2. Coopérative](2.-cooperative.md)
-* [3. Règles internes](3.-regles-internes.md)
-* [4. Syndicat](4.-syndicat.md)
-* [5. Postes](5.-postes.md)
+* [1. Formation](centrale/1.-formation.md)
+* [2. Coopérative](centrale/2.-cooperative.md)
+* [3. Règles internes](centrale/3.-regles-internes.md)
+* [4. Syndicat](centrale/4.-syndicat.md)
+* [5. Postes](centrale/5.-postes.md)
 
 ## Répartition
 
@@ -18,9 +16,9 @@
   * [Menu principal](repartition/7.-fraxion/menu-principal.md)
   * [Réception des appels](repartition/7.-fraxion/reception-des-appels.md)
   * [Restrictions](repartition/7.-fraxion/restrictions.md)
+* [Numéros d'Ordre](repartition/numeros-dordre.md)
 * [Réservations](repartition/reservations.md)
 * [Chicoutimi](repartition/chicoutimi.md)
-* [Numéros d'Ordre](repartition/numeros-dordre.md)
 
 ## Taxi
 
